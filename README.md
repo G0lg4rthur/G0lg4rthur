@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ^^ 👋
 
 <!--
 **G0lg4rthur/G0lg4rthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
