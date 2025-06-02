@@ -1,16 +1,27 @@
-### Hi ^^ 👋
+# 👋 Junior Data Analyst | Logistics Data Visualization | Team Player
 
-<!--
-**G0lg4rthur/G0lg4rthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a **Junior Data Analyst** with **2 years of experience** turning logistics data into actionable insights through clear and impactful visualizations.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning - 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Any
-- ⚡ Fun fact: ...
--->
+- 📊 **Excel** – Data cleaning, analysis, and reporting  
+- 🐍 **Python** – Automation, data manipulation, and scripting  
+- 🧠 **SQL** – Efficient data querying and database interaction  
+- 📈 **Power BI** – Building interactive dashboards and visual reports  
+
+## 🤝 Soft Skills
+
+- Strong **team collaboration**
+- **Assertive communication**
+- Problem-solving mindset
+
+## 🚚 Industry Focus
+- Specialized in **logistics data**
+- Experience in transforming operational data into strategic insights
+
+---
+
+I'm passionate about solving problems with data, thrive in collaborative environments, and communicate findings with clarity and confidence. Always learning, always improving.
+
+Let’s connect and build something insightful!
+
