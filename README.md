@@ -1,4 +1,4 @@
-# 👋 Junior Data Analyst | Logistics Data Visualization | Team Player
+# 👋 Junior Data Analyst | Data Visualization | Team Player
 
 Hi there! I'm a **Junior Data Analyst** with **2 years of experience** turning logistics data into actionable insights through clear and impactful visualizations.
 
