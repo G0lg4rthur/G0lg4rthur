@@ -14,13 +14,12 @@ Hi there! I'm a **Junior Data Analyst** with **2 years of experience** turning l
 - Strong **team collaboration**
 - **Assertive communication**
 - Problem-solving mindset
-
+```
 ## 🚚 Industry Focus
 - Specialized in **logistics data**
 - Experience in transforming operational data into strategic insights
-
----
-
+--- 
+```
 I'm passionate about solving problems with data, thrive in collaborative environments, and communicate findings with clarity and confidence. Always learning, always improving.
 
 Let’s connect and build something insightful!
